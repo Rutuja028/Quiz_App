@@ -2,6 +2,7 @@
 *.dart linguist-detectable=true
 *.cpp linguist-detectable=false
 *.cmake linguist-detectable=false
+*.Cmake linguist-detectable=false
 *.html linguist-detectable=false
 *.swift linguist-detectable=false
 *.c linguist-detectable=false
