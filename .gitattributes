@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 *.flutter linguist-detectable=true
-*.C++ linguist-detectable=false
+*.cpp linguist-detectable=false
 *.CMake linguist-detectable=false
 *.Dart linguist-detectable=false
 *.HTML linguist-detectable=false
